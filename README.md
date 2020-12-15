@@ -7,6 +7,6 @@ Candidato: Francisco Guilherme Siqueira Viana
 - Tema temaFrancisco criado;
 - Utilização do plugin ACF para criar campos customisados;
 - Tornar todo o conteúdo dinâmico (editáveis via painel)
-- Foram criados dois 'Custom Post Type" - Um para o slider e outro para o
-- Incluir o Banco de dados no repositório
+- Foram criados dois 'Custom Post Type" - Um para o slider e outro para as features;
+
 
